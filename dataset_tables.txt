@@ -1,0 +1,8 @@
+Dataset | First row is column names | Comma separated | Number of rows | Number of columns | Size on disk
+=====================================================================================================
+train_bank.csv | Yes | Yes | 165035 | 14 | 12M
+train_diabetes.csv | Yes | Yes | 601 | 10 | 21K
+training_higgs.csv | No | Yes | 250001 | 33 | 53M
+train_springleaf.csv | No | Yes | 145232 | 1934 | 922M
+training_cancer.csv | No | Yes | 12906 | 83 | 11M
+training_higgs.csv | No | Yes | 250001 | 33 | 53M
